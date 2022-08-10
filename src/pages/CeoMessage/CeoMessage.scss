@@ -1,0 +1,15 @@
+.ceoMessage{
+    display: flex;
+    flex-direction: row;
+  img{
+    width: 20%;
+    aspect-ratio: auto 169 / 243;
+    height: 243px;
+    margin-top: 50px;
+  }
+  div{
+    max-width: 45%;
+    padding: 30px 20px;
+    margin: 20px 30px;
+  } 
+}

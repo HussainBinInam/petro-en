@@ -1,0 +1,65 @@
+.header {
+    min-height: 20%;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    flex: 1 ,0;
+   
+    margin-bottom: 25px;
+    .menu {
+     
+        border-top: 1px solid gray;
+        border-bottom: 1cm solid gray;;
+    }
+    .logo-container {
+      display: block;
+      min-height: 100%;
+      min-width: 70px;
+      width: auto;
+      padding: 25px;
+      img{
+        height: 150px;
+        float: left;
+      }
+      .logo-text{
+        margin-top: 40px;
+        h1{
+          color: rgb(206, 200, 200);
+        }
+        h2{
+          color: rgb(87, 87, 189);
+        }
+      }
+
+    }
+  
+    .options {
+      background-color: white;
+      border-top: 1px solid gray;
+      border-bottom: 1px solid gray;
+      max-width: 100%;
+      min-height: 30px;
+      height: auto;
+      display: flex;
+      flex-direction: row;
+      padding: 0px 10px;
+      .option{
+        background-color: white;
+        float: left;
+        min-height: 100%;
+        width: 970px;
+        border-bottom: 1px solid #EEEEEE;
+        border-top: 1px solid #EEEEEE;
+        cursor: pointer;
+      
+        &:hover {
+          
+          color: rgb(71, 158, 240);
+          
+        }
+      }
+      @media screen and (max-width:500) {
+        .options{overflow: auto;}
+      }
+    }
+  }

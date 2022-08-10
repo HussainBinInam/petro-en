@@ -1,0 +1,17 @@
+.Snavbar{
+    ul{
+        padding: 10px;
+        li{
+            color:  rgb(69, 69, 71);
+            content: "\2023";
+            display: list-item;
+            list-style: none;
+            text-align: -webkit-match-parent;
+            border-bottom: 1px solid #e8e8e8;
+            margin-bottom: 3px;
+        }
+    
+        li::marker {
+            content: "▶";
+        }}
+    }
