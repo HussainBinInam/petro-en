@@ -4,6 +4,8 @@ import {Route, Routes} from 'react-router-dom';
 
 import Header from './components/header/header.component';
 import HomePage from './pages/homePage/Home';
+import VissionMission from './pages/vission&Mission/vission&mission';
+import Carrers from './pages/Carrers/Carrers';
 import ContactUs from './pages/contactUs/contactUs';
 import CeoMessage from './pages/CeoMessage/CeoMessage';
 
@@ -25,8 +27,8 @@ class App extends React.Component{
               <Route exact path='/' element = {<HomePage/>}/>
               <Route path = '/ABOUT-US'/>
               <Route path = '/DIVISIONS' />
-              <Route path = '/VISION-&-MISSION'/>
-              <Route path = '/CARRERS'/>
+              <Route path = '/VISSION-&-MISSION' element= {<VissionMission/>}/>
+              <Route path = '/CAREERS' element= {<Carrers/>}/>
               <Route path = '/CONTACT-US' element = {<ContactUs/>}/>
               <Route path = '/CEO-MESSAGE' element={<CeoMessage/>} />
             </Routes>
