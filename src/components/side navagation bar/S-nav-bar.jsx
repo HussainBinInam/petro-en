@@ -4,7 +4,7 @@ import './S-nav-bar.scss';
 
 const Snavbar = ()=> {
     return(
-    <div className= "Snavbar">
+    <div className="Snavbar">
         <ul>
             <h3>ProTech</h3>
             <li> <Link to='/'>Home</Link></li>

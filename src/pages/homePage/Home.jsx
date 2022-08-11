@@ -25,8 +25,8 @@ const HomePage = ()=> {
             </div>
         </div>
         <div className= 'sidebar'>
+            <Snavbar/>
             <NewsNevents/>
-                   <Snavbar/>
         </div>
     </div>
     )

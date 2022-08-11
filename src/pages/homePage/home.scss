@@ -3,19 +3,7 @@
     flex-direction: row;
 }
 
-.sidebar{
-    display: flex;
-    flex-direction: column;
-    float: left;
-    width: 280px;
-    padding: 10px 10px 30px 10px;
-    -moz-border-radius-bottomleft: 5px;
-    -moz-border-radius-bottomright: 5px;
-    -moz-border-radius-topleft: 5px;
-    -moz-border-radius-topright: 5px;
-    margin-bottom: 15px;
-    color:  rgb(69, 69, 71);
-}
+
 
 .intro {
     width: 65%;
@@ -23,7 +11,7 @@
     letter-spacing: 0.5px;
     
     display: block;
-    margin: 30px 20px;
+    margin: 10px 10px;
     h2 {
         margin : 0 30px;
         color: #4D4D4F;

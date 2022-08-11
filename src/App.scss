@@ -44,3 +44,18 @@ a{
         border: 1px solid yellow; 
     };
 } */
+.sidebar{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 280px;
+    padding: 10px 10px 30px 10px;
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    margin-bottom: 15px;
+    color:  rgb(69, 69, 71);
+    ul li{background-image: '../Assits/wg-bottom.gif' repeat x bottom;}
+}
