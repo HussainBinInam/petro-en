@@ -1,5 +1,5 @@
 import React from "react";
-import NewsNevents from "../../components/NewsNevents/newsNevent";
+
 import './CeoMessage.scss';
 
 
@@ -16,7 +16,7 @@ const CeoMessage = ()=>{
                 Petroen Engineering DMCC</p>
         </div>
         
-        <NewsNevents/>
+        
     </div>
     )
 

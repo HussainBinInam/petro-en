@@ -19,18 +19,22 @@ class App extends React.Component{
     return (
       <div className= "main">
         <Header />
-        <Routes>
-          <Route exact path='/' element = {<HomePage/>}/>
-          <Route path = '/ABOUT-US'/>
-          <Route path = '/DIVISIONS' />
-          <Route path = '/VISION-&-MISSION'/>
-          <Route path = '/CARRERS'/>
-          <Route path = '/CONTACT-US' element = {<ContactUs/>}/>
-          <Route path = '/CEO-MESSAGE' element={<CeoMessage/>} />
-        </Routes>
-        <div className= 'sidebar'>
-            <Snavbar/>
-            <NewsNevents/>
+        <div className='tail'>
+          <div className= "page">
+            <Routes>
+              <Route exact path='/' element = {<HomePage/>}/>
+              <Route path = '/ABOUT-US'/>
+              <Route path = '/DIVISIONS' />
+              <Route path = '/VISION-&-MISSION'/>
+              <Route path = '/CARRERS'/>
+              <Route path = '/CONTACT-US' element = {<ContactUs/>}/>
+              <Route path = '/CEO-MESSAGE' element={<CeoMessage/>} />
+            </Routes>
+          </div>
+          <div className= 'sidebar'>
+              <Snavbar/>
+              <NewsNevents/>
+          </div>
         </div>
       </div>
       
