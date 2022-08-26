@@ -1,14 +1,13 @@
-.ceoMessage{
-    display: flex;
-    flex-direction: row;
-  img{
+.ceoMessage {
+  display: flex;
+  flex-direction: row;
+  img {
     width: 20%;
     aspect-ratio: auto 169 / 243;
     height: 243px;
     margin-top: 50px;
   }
-  div{
+  div {
     max-width: 100%;
-    
-  } 
+  }
 }
