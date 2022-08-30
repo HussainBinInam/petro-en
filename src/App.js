@@ -6,7 +6,10 @@ import Header from "./components/header/header.component";
 import HomePage from "./pages/homePage/Home";
 import AboutUs from "./pages/About-us/about-us";
 import QHSE from "./pages/QHSE/QHSE";
+import Principals from "./pages/Principals/principals";
 import Divisions from "./pages/Divisions/Divisions";
+import NetworkandTraining from "./pages/NetworkNTraining/NAT";
+import EPCC from "./pages/EPCC/EPCC";
 import VissionMission from "./pages/vission&Mission/vission&mission";
 import Carrers from "./pages/Carrers/Carrers";
 import ContactUs from "./pages/contactUs/contactUs";
@@ -29,10 +32,13 @@ class App extends React.Component {
               <Route exact path="/" element={<HomePage />} />
               <Route path="/ABOUT-US" element={<AboutUs />} />
               <Route path="/ABOUT-US/QHSE" element={<QHSE />} />
-              <Route path="/ABOUT-US/Principals" />
+              <Route path="/ABOUT-US/Principals" element={<Principals />} />
               <Route path="/DIVISIONS" element={<Divisions />} />
-              <Route path="/DIVISIONS/Networks-&-Training" />
-              <Route path="/DIVISIONS/EPCC" />
+              <Route
+                path="/DIVISIONS/Networks&Training"
+                element={<NetworkandTraining />}
+              />
+              <Route path="/DIVISIONS/EPCC" element={<EPCC />} />
               <Route path="/DIVISIONS/Supply Chain Division" />
               <Route path="/DIVISIONS/Industrial Engineering Solutions" />
               <Route path="/DIVISIONS/Manufacturing" />

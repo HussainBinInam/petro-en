@@ -38,7 +38,7 @@ const Snavbar = () => {
           </Link>
           <ul>
             <li>
-              <Link className="link" to="/DIVISIONS/Networks & Training">
+              <Link className="link" to="/DIVISIONS/Networks&Training">
                 Networks & Training
               </Link>
             </li>
