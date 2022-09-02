@@ -48,27 +48,27 @@ const Snavbar = () => {
               </Link>
             </li>
             <li>
-              <Link className="link" to="/DIVISIONS/Supply Chain DIVISIONS">
-                Supply Chain DIVISIONS
+              <Link className="link" to="/DIVISIONS/Supply-Chain-Division">
+                Supply Chain Division
               </Link>
             </li>
             <li>
               <Link
                 className="link"
-                to="/DIVISIONS/Industrial Engineering Solutions"
+                to="/DIVISIONS/Industrial-Engineering-Solutions"
               >
                 Industrial Engineering Solutions
               </Link>
             </li>
             <li>
-              <Link className="link" to="/DIVISIONS/Manufacturing">
+              <a className="link" href="http://angloeasternfze.com/">
                 Manufacturing
-              </Link>
+              </a>
             </li>
             <li>
-              <Link className="link" to="/DIVISIONS/Engineering">
+              <a className="link" href="http://www.brillante-engineers.com/">
                 Engineering
-              </Link>
+              </a>
             </li>
           </ul>
         </li>

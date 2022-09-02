@@ -9,6 +9,8 @@ import QHSE from "./pages/QHSE/QHSE";
 import Principals from "./pages/Principals/principals";
 import Divisions from "./pages/Divisions/Divisions";
 import NetworkandTraining from "./pages/NetworkNTraining/NAT";
+import SupplyChain from "./pages/supply chain divission/SupplyChain";
+import IES from "./pages/IndustrialEngineeringSolutions/IES";
 import EPCC from "./pages/EPCC/EPCC";
 import VissionMission from "./pages/vission&Mission/vission&mission";
 import Carrers from "./pages/Carrers/Carrers";
@@ -39,10 +41,14 @@ class App extends React.Component {
                 element={<NetworkandTraining />}
               />
               <Route path="/DIVISIONS/EPCC" element={<EPCC />} />
-              <Route path="/DIVISIONS/Supply Chain Division" />
-              <Route path="/DIVISIONS/Industrial Engineering Solutions" />
-              <Route path="/DIVISIONS/Manufacturing" />
-              <Route path="/DIVISIONS/Engineering" />
+              <Route
+                path="/DIVISIONS/Supply-Chain-Division"
+                element={<SupplyChain />}
+              />
+              <Route
+                path="/DIVISIONS/Industrial-Engineering-Solutions"
+                element={<IES />}
+              />
               <Route path="/VISSION-&-MISSION" element={<VissionMission />} />
               <Route path="/CAREERS" element={<Carrers />} />
               <Route path="/CONTACT-US" element={<ContactUs />} />
