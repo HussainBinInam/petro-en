@@ -56,8 +56,8 @@ class App extends React.Component {
             </Routes>
           </div>
           <div className="sidebar">
-            <Snavbar />
             <NewsNevents />
+            <Snavbar />
           </div>
         </div>
       </div>
