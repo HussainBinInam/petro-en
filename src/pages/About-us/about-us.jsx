@@ -7,23 +7,23 @@ const AboutUs = () => {
       <h2>About Us</h2>
       <img src={Image} />
       <p>
-        Pro-Tech started its operation in Dubai, United Arab Emirates in 2007.
+        Petro-en started its operation in Dubai, United Arab Emirates in 2007.
       </p>
       <p>
-        Pro-Tech DMCC is one the most trusted names in the market of Engineering
-        & Contracting. Pro-Tech is operational across the Middle East &
+         DMCC is one the most trusted names in the market of Engineering
+        & Contracting. Petro-en is operational across the Middle East &
         Pakistan. The main feature of its development is dynamic growth,
         prosperity and stability. Since 2007 company is specializing in the
         field of Instrument, Control, Automation, Fire & Security, Electrical
         and Mechanical installation and maintenance.
       </p>
       <p>
-        Quality has always been a prime focus of Pro-Tech operations. It has
+        Quality has always been a prime focus of Petro-en operations. It has
         always invested in the area where ever there is even a bleak chance of
         improvement in quality services. Starting from the selection of trained
         and professional and purchase of state or the art equipment, access to
         latest technological development s and standards – to continuous
-        trainings and workshops to train our professional staff, Pro-Tech has
+        trainings and workshops to train our professional staff, Petro-en has
         turned every stone to make all our products and services including
         engineering, procurement, construction, & commissioning quicker, safer
         and economical.

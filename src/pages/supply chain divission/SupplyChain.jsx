@@ -12,7 +12,7 @@ const SupplyChain = () => {
         Our Supply Chain Division has special expertise in Oil &amp; Gas and
         energy sector equipments and related services. With our long
         outstanding, proven &amp; trusted relationship with the world leading
-        manufacturers and engineering companies, ProTech Trading & Engineering
+        manufacturers and engineering companies, Petro-en Trading & Engineering
         supply chain division enjoys a unique position for sourcing and
         supplying required products and related services timely, efficiently and
         effectively meeting and exceeding our customers’ requirements. Further

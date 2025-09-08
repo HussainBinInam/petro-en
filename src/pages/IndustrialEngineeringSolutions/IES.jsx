@@ -31,15 +31,15 @@ const IES = () => {
         instrumentation &amp; control.
       </p>
       <p>
-        ProTech Trading & Engineering ’s highly trained engineers and friendly
+        Petro-en Trading & Engineering ’s highly trained engineers and friendly
         customer service professionals can find the optimal solution for the
-        most demanding applications. This unique combination enables ProTech
+        most demanding applications. This unique combination enables Petro-en
         Engineering to offer our customers the best instrument value in the
         industry.
       </p>
       <h3>3. Instrumentation </h3>
       <p>
-        ProTech Trading & Engineering offers process measurement and control
+        Petro-en Trading & Engineering offers process measurement and control
         solutions. Our offered products and solutions are being used to measure
         and control flow, pressure, level, temperature and analytical. We
         provide broad lines of sensors, switches and transmitters in the
@@ -58,9 +58,9 @@ const IES = () => {
         pressure gauges and pressure transmitters.
       </p>
       <p>
-        ProTech Trading & Engineering level products include float level
+        Petro-en Trading & Engineering level products include float level
         switches, optical level switches, ultrasonic level switches, conductive
-        level switches, and many more. ProTech Trading & Engineering also offers
+        level switches, and many more. Petro-en Trading & Engineering also offers
         a broad range of level transmitters including float-type level
         transmitters, magnetostrictive level transmitters, ultrasonic level
         transmitters and capacitance level transmitters. We also provide bypass
@@ -113,7 +113,7 @@ const IES = () => {
       </p>
       <h3>7. Building Management Systems</h3>
       <p>
-        ProTech Trading & Engineering has a team of professionals who carried
+        Petro-en Trading & Engineering has a team of professionals who carried
         out many successful turnkey projects in building management system on
         the following products/systems:
       </p>

@@ -7,11 +7,11 @@ const HomePage = () => {
   return (
     <div className="homePage">
       <div className="intro">
-        <h2>Welcome to ProTech</h2>
+        <h2>Welcome to Petro-en</h2>
         <img src={slogan} alt="Slogan" />
         <div className="para">
           <p>
-            ProTech is an integrated Engineering, Procurement, Construction and
+            Petro-en is an integrated Engineering, Procurement, Construction and
             Commissioning (EPCC) company; recognized as a “committed service
             provider” by the Exploration & Production companies.
           </p>
@@ -29,11 +29,11 @@ const HomePage = () => {
             Operation and Maintenance services.
             <br />
             <br />
-            ProTech brings around the globe experience through its associations
+            Petro-en brings around the globe experience through its associations
             and affiliations with the renowned technology leaders to its
             clients. Combined with in depth knowledge of the local environment,
             we have proven track record of undertaking projects right from the
-            concept stage to handing over of the facilities. ProTech carries a
+            concept stage to handing over of the facilities. Petro-en carries a
             trademark of Fast-track EPCC projects. We are recognized in the oil
             & gas industry, for meeting highest Quality & HSE standards and
             delivering world-class facilities on-time; these are our proofs of

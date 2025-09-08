@@ -8,7 +8,7 @@ const CeoMessage = () => {
       <div>
         <h2>Ceo Message</h2>
         <p>
-          Pro-Tech with its presence in the market along with its subsidiaries
+          Petro-en with its presence in the market along with its subsidiaries
           has positioned itself as uniquely as a progressive, Dynamic and
           forward-looking organization. We successfully introduced a unique
           portfolio of products and services that cater its distinguished
@@ -29,7 +29,7 @@ const CeoMessage = () => {
           <br />
           Chief Executive Officer,
           <br />
-          Pro-Tech Trading & Engineering Services FZE -LLC
+          Petro-en Trading & Engineering Services FZE -LLC
         </p>
       </div>
     </div>

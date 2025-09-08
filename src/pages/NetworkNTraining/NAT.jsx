@@ -6,10 +6,10 @@ const NetworkandTraining = () => {
     <div className="NAT">
       <h2> Networks & Training</h2>
       <p>
-        <b>ProTech Networks</b> is a leader in systems and network
-        infrastructure services. ProTech Networks’ engineers have extensive
+        <b>Petro-en Networks</b> is a leader in systems and network
+        infrastructure services. Petro-en Networks’ engineers have extensive
         professional experience and industry credentials. Our leadership in
-        network technology enables ProTech to become a strategic partner of our
+        network technology enables Petro-en to become a strategic partner of our
         clients IT initiatives.
       </p>
       <p>
@@ -18,7 +18,7 @@ const NetworkandTraining = () => {
         comprehensive networking solution for your business.
       </p>
       <p>
-        <b>ProTech Networks</b> online Training & Certification offers the
+        <b>Petro-en Networks</b> online Training & Certification offers the
         following major benefits to its students:
       </p>
       <ul>
