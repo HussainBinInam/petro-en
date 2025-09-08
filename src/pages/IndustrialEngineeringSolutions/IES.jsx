@@ -31,15 +31,15 @@ const IES = () => {
         instrumentation &amp; control.
       </p>
       <p>
-        Petro-en Trading & Engineering ’s highly trained engineers and friendly
+        Petroen  Trading & Engineering ’s highly trained engineers and friendly
         customer service professionals can find the optimal solution for the
-        most demanding applications. This unique combination enables Petro-en
+        most demanding applications. This unique combination enables Petroen 
         Engineering to offer our customers the best instrument value in the
         industry.
       </p>
       <h3>3. Instrumentation </h3>
       <p>
-        Petro-en Trading & Engineering offers process measurement and control
+        Petroen  Trading & Engineering offers process measurement and control
         solutions. Our offered products and solutions are being used to measure
         and control flow, pressure, level, temperature and analytical. We
         provide broad lines of sensors, switches and transmitters in the
@@ -58,9 +58,9 @@ const IES = () => {
         pressure gauges and pressure transmitters.
       </p>
       <p>
-        Petro-en Trading & Engineering level products include float level
+        Petroen  Trading & Engineering level products include float level
         switches, optical level switches, ultrasonic level switches, conductive
-        level switches, and many more. Petro-en Trading & Engineering also offers
+        level switches, and many more. Petroen  Trading & Engineering also offers
         a broad range of level transmitters including float-type level
         transmitters, magnetostrictive level transmitters, ultrasonic level
         transmitters and capacitance level transmitters. We also provide bypass
@@ -82,7 +82,7 @@ const IES = () => {
       </p>
       <h3>5. Valves</h3>
       <p>
-        Petro Engineering offers all kinds and sizes of industrial valves like
+        Petroen Engineering offers all kinds and sizes of industrial valves like
         gate, butterfly, globe, check, ball valve, non-return valves, pressure
         relief valve etc. Our offered valves are hand lever operated, gearbox
         operated, electric actuator/pneumatic operated, on-off as well as
@@ -113,7 +113,7 @@ const IES = () => {
       </p>
       <h3>7. Building Management Systems</h3>
       <p>
-        Petro-en Trading & Engineering has a team of professionals who carried
+        Petroen  Trading & Engineering has a team of professionals who carried
         out many successful turnkey projects in building management system on
         the following products/systems:
       </p>

@@ -7,7 +7,7 @@ const QHSE = () => {
       <h2>QHSE</h2>
       <img src={Image} />
       <p>
-        Pro-Tech is focused on its commitment to deliver the best and we ensure
+        Petroen Engineering DMCC is focused on its commitment to deliver the best and we ensure
         that the highest quality standards are followed while giving the utmost
         importance to health, safety and environment. Petroen Engineering and
         its associated companies believe in professional, honest and ethical
@@ -16,7 +16,7 @@ const QHSE = () => {
         development.
       </p>
       <p>
-        Pro-Tech and the group QHSE strategy is built around a comprehensive
+        Petroen Engineering DMCC and the group QHSE strategy is built around a comprehensive
         system which is based on a well-integrated management system conforming
         to international standards and industry best practices. Our system
         establishes well laid out documents at our projects for implementation

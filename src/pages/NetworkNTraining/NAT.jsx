@@ -6,10 +6,10 @@ const NetworkandTraining = () => {
     <div className="NAT">
       <h2> Networks & Training</h2>
       <p>
-        <b>Petro-en Networks</b> is a leader in systems and network
-        infrastructure services. Petro-en Networks’ engineers have extensive
+        <b>Petroen  Networks</b> is a leader in systems and network
+        infrastructure services. Petroen  Networks’ engineers have extensive
         professional experience and industry credentials. Our leadership in
-        network technology enables Petro-en to become a strategic partner of our
+        network technology enables Petroen  to become a strategic partner of our
         clients IT initiatives.
       </p>
       <p>
@@ -18,7 +18,7 @@ const NetworkandTraining = () => {
         comprehensive networking solution for your business.
       </p>
       <p>
-        <b>Petro-en Networks</b> online Training & Certification offers the
+        <b>Petroen  Networks</b> online Training & Certification offers the
         following major benefits to its students:
       </p>
       <ul>
