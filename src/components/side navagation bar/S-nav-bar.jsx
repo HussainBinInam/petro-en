@@ -6,7 +6,7 @@ const Snavbar = () => {
   return (
     <div className="Snavbar">
       <ul>
-        <h3>ProTech</h3>
+        <h3>Petroen Engineering DMCC</h3>
         <li>
           {" "}
           <Link className="link" to="/">
