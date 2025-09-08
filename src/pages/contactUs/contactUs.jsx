@@ -5,7 +5,7 @@ const ContactUs = () => {
   return (
     <div>
       <h2>Contact Us</h2>
-      <h4>ProTech Trading & Engineering Services FZE -LLC</h4>
+      <h4>Petroen Engineering DMCC Trading & Engineering Services FZE -LLC</h4>
       <ul>
         <ul>
           <li>Main office,</li>
@@ -24,7 +24,7 @@ const ContactUs = () => {
         <li>Phone: 00971 (4) 5064605</li>
         <li>Mob: 00971 556043757</li>
         <li> WhatsApp: 00971 556043757</li>
-        <li>Email: info@Protech-TES.com</li>
+        <li>Email: info@Petroen Engineering DMCC-TES.com</li>
       </ul>
     </div>
   );
