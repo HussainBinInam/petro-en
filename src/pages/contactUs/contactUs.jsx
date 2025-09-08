@@ -5,7 +5,7 @@ const ContactUs = () => {
   return (
     <div>
       <h2>Contact Us</h2>
-      <h4>Petroen Engineering DMCC Trading & Engineering Services FZE -LLC</h4>
+      <h4>Petroen Engineering DMCC</h4>
       <ul>
         <ul>
           <li>Main office,</li>
