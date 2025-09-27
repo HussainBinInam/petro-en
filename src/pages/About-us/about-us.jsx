@@ -18,15 +18,19 @@ const AboutUs = () => {
         and Mechanical installation and maintenance.
       </p>
       <p>
-        Quality has always been a prime focus of Petroen Engineering DMCC operations. It has
-        always invested in the area where ever there is even a bleak chance of
-        improvement in quality services. Starting from the selection of trained
-        and professional and purchase of state or the art equipment, access to
-        latest technological development s and standards – to continuous
-        trainings and workshops to train our professional staff, Petroen Engineering DMCC has
-        turned every stone to make all our products and services including
-        engineering, procurement, construction, & commissioning quicker, safer
-        and economical.
+        A stated policy of the company high-level commitment to delivering high-quality products and
+services that meet customer requirements, comply with regulations, and continuously improve
+its Quality Management System (QMS) to ensure safe, reliable, and efficient operations. It
+serves as the foundation for all quality activities, directing efforts toward defect prevention,
+early detection of issues, and ensuring adherence to industry standards and best practices to
+maintain operational excellence and competitive success. Quality has always been a prime
+focus of Petroen Engineering DMCC operations. It has always invested in the area where ever
+there is even a bleak chance of improvement in quality services. Starting from the selection of
+trained and professional and purchase of state or the art equipment, access to latest
+technological development and standards to continuous trainings and workshops to train our
+professional staff, Petroen Engineering DMCC has turned every stone to make all our products
+and services including engineering, procurement, construction, &amp; commissioning quicker, safer
+and economical.
       </p>
       <p>
         Now we are happy to say that we have all the resources available to
@@ -34,7 +38,7 @@ const AboutUs = () => {
       </p>
       <p>
         We have strong back office operational staff to handle the day to day
-        matters of on-going projects (like coordination with all
+        matters of on-going projects like coordination with all
         interdepartmental teams and clients, material management, workforce
         management, reporting, handling customer complaints and requirements
         etc.

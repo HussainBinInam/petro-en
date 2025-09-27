@@ -1,6 +1,12 @@
 div {
   ol {
     margin: 10px;
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
     li {
       margin: 10px;
     }

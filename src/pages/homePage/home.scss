@@ -27,6 +27,14 @@
       text-align: justify;
       width: 55%;
     }
+    ul{
+      list-style-type: disc;
+      padding-left: 20px;
+      width: 40%;
+      li{
+        margin-bottom: 5px;
+      }
+    }
     img {
       shape-outside: border-box;
       float: right;

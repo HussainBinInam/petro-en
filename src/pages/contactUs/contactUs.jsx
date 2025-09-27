@@ -21,10 +21,10 @@ const ContactUs = () => {
         </ul>
       </ul>
       <ul>
-        <li>Phone: 00971 (4) 5064605</li>
-        <li>Mob: 00971 556043757</li>
-        <li> WhatsApp: 00971 556043757</li>
-        <li>Email: info@Petroen Engineering DMCC-TES.com</li>
+        
+        <li>Mob: +971 569716822</li>
+        <li> WhatsApp: +971 558942436</li>
+        <li>Email: Khurram.latif@Petro-en.com</li>
       </ul>
     </div>
   );
