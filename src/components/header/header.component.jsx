@@ -10,7 +10,7 @@ const Header = () => (
       <img src={logo} alt="logo" />
       <div className="logo-text">
         <h1>Petroen Engineering DMCC</h1>
-        <h2>Trading & Engineering Services FZE -LLC</h2>
+        <h2>Trading & Engineering Services FZE</h2>
       </div>
     </div>
     <div className="options">
