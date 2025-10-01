@@ -2,6 +2,19 @@
   ul {
     margin: 0;
     padding: 10px;
+    .certi {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      border-bottom: none;
+      margin-top: 5px;
+      img {
+        width: 30px;
+        height: auto;
+        margin: 5px 0;
+      }
+      margin-bottom: 0px;
+    }
     li {
       color: rgb(69, 69, 71);
       margin: 15px 0;

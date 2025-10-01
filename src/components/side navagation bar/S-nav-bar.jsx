@@ -1,12 +1,20 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./S-nav-bar.scss";
+import Certi1 from "../../Assits/ProTech logos/iso.jpg"
+import Certi2 from "../../Assits/ProTech logos/iso2.jpg"
+import Certi3 from "../../Assits/ProTech logos/iso3.jpg"
 
 const Snavbar = () => {
   return (
     <div className="Snavbar">
       <ul>
         <h3>Petroen Engineering DMCC</h3>
+        <li className="certi">
+          <img src={Certi1} alt="Certification 1" />
+          <img src={Certi2} alt="Certification 2" />
+          <img src={Certi3} alt="Certification 3" />
+        </li>
         <li>
           {" "}
           <Link className="link" to="/">
@@ -74,14 +82,14 @@ const Snavbar = () => {
         </li>
         <li>
           {" "}
-          <Link className="link" to="/VISSION-&-MISSION">
-            Vission and Mission
+          <Link className="link" to="/VISION-&-MISSION">
+            Vision and Mission
           </Link>
         </li>
         <li>
           {" "}
-          <Link className="link" to="/CARRERS">
-            Carrers
+          <Link className="link" to="/CAREERS">
+            Careers
           </Link>
         </li>
         <li>

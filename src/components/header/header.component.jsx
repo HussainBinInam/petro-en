@@ -3,14 +3,17 @@ import "./header.style.scss";
 import logo from "../../Assits/ProTech logos/ProTechLogo2-Transparent.png";
 import CustomButton from "../button/button.component";
 import { Link } from "react-router-dom";
+import logoText from "../../Assits/ProTech logos/logo.png";
 
 const Header = () => (
   <div className="header">
     <div className="logo-container">
-      <img src={logo} alt="logo" />
+      {/* <img src={logo} alt="logo" /> */}
+      <img src={logoText} alt="logoText" />
       <div className="logo-text">
-        <h1>Petroen Engineering DMCC</h1>
-        <h2>Trading & Engineering Services FZE</h2>
+        {/* <h1>Petroen Engineering DMCC</h1> */}
+
+        {/* <h2>Engineering Services FZE</h2> */}
       </div>
     </div>
     <div className="options">

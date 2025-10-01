@@ -49,7 +49,7 @@ class App extends React.Component {
                 path="/DIVISIONS/Industrial-Engineering-Solutions"
                 element={<IES />}
               />
-              <Route path="/VISSION-&-MISSION" element={<VissionMission />} />
+              <Route path="/VISION-&-MISSION" element={<VissionMission />} />
               <Route path="/CAREERS" element={<Carrers />} />
               <Route path="/CONTACT-US" element={<ContactUs />} />
               <Route path="/CEO-MESSAGE" element={<CeoMessage />} />
