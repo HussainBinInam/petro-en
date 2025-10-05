@@ -3,7 +3,7 @@ import "./header.style.scss";
 import logo from "../../Assits/ProTech logos/ProTechLogo2-Transparent.png";
 import CustomButton from "../button/button.component";
 import { Link } from "react-router-dom";
-import logoText from "../../Assits/ProTech logos/logo.png";
+import logoText from "../../Assits/ProTech logos/Logo_Dubai.ico";
 
 const Header = () => (
   <div className="header">
