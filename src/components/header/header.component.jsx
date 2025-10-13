@@ -28,8 +28,8 @@ const Header = () => (
         {" "}
         Division
       </Link>
-      <Link to="/VISSION-&-MISSION" className="option">
-        Vission & Mission
+      <Link to="/VISION-&-MISSION" className="option">
+        Vision & Mission
       </Link>
       <Link to="/CAREERS" className="option">
         Carrers
