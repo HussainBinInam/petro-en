@@ -27,8 +27,8 @@ const Header = () => (
           About us
         </Link>
         <div className="dropdown-content" role="menu" aria-label="About us submenu">
-          <Link to="/QHSE" className="dropdown-item" role="menuitem">QHSE</Link>
-          <Link to="/PRINCIPAL" className="dropdown-item" role="menuitem">Principal</Link>
+          <Link to="/ABOUT-US/QHSE" className="dropdown-item" role="menuitem">QHSE</Link>
+          <Link to="/ABOUT-US/Principals" className="dropdown-item" role="menuitem">Principal</Link>
         </div>
       </div>
 
@@ -37,12 +37,12 @@ const Header = () => (
           Division
         </Link>
         <div className="dropdown-content" role="menu" aria-label="Divisions submenu">
-          <Link to="/DIVISIONS/NETWORKS-TRAINING" className="dropdown-item" role="menuitem">Networks & Training</Link>
+          <Link to="/DIVISIONS/Networks&Training" className="dropdown-item" role="menuitem">Networks & Training</Link>
           <Link to="/DIVISIONS/EPCC" className="dropdown-item" role="menuitem">EPCC</Link>
-          <Link to="/DIVISIONS/SUPPLY-CHAIN" className="dropdown-item" role="menuitem">Supply Chain Division</Link>
-          <Link to="/DIVISIONS/INDUSTRIAL-ENGINEERING" className="dropdown-item" role="menuitem">Industrial Engineering Solutions</Link>
-          <Link to="/DIVISIONS/MANUFACTURING" className="dropdown-item" role="menuitem">Manufacturing</Link>
-          <Link to="/DIVISIONS/ENGINEERING" className="dropdown-item" role="menuitem">Engineering</Link>
+          <Link to="/DIVISIONS/Supply-Chain-Division" className="dropdown-item" role="menuitem">Supply Chain Division</Link>
+          <Link to="/DIVISIONS/Industrial-Engineering-Solutions" className="dropdown-item" role="menuitem">Industrial Engineering Solutions</Link>
+          <Link to="http://angloeasternfze.com/" className="dropdown-item" role="menuitem">Manufacturing</Link>
+          <Link to="http://www.brillante-engineers.com/" className="dropdown-item" role="menuitem">Engineering</Link>
         </div>
       </div>
 
