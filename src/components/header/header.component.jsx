@@ -41,8 +41,8 @@ const Header = () => (
           <Link to="/DIVISIONS/EPCC" className="dropdown-item" role="menuitem">EPCC</Link>
           <Link to="/DIVISIONS/Supply-Chain-Division" className="dropdown-item" role="menuitem">Supply Chain Division</Link>
           <Link to="/DIVISIONS/Industrial-Engineering-Solutions" className="dropdown-item" role="menuitem">Industrial Engineering Solutions</Link>
-          <Link to="http://angloeasternfze.com/" className="dropdown-item" role="menuitem">Manufacturing</Link>
-          <Link to="http://www.brillante-engineers.com/" className="dropdown-item" role="menuitem">Engineering</Link>
+          <Link href="http://angloeasternfze.com/" className="dropdown-item" role="menuitem">Manufacturing</Link>
+          <Link href="http://www.brillante-engineers.com/" className="dropdown-item" role="menuitem">Engineering</Link>
         </div>
       </div>
 
