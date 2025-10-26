@@ -55,10 +55,10 @@ class App extends React.Component {
               <Route path="/CEO-MESSAGE" element={<CeoMessage />} />
             </Routes>
           </div>
-          <div className="sidebar">
+          {/* <div className="sidebar">
             <NewsNevents />
             <Snavbar />
-          </div>
+          </div> */}
         </div>
       </div>
     );

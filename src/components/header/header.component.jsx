@@ -1,3 +1,4 @@
+
 import React from "react";
 import "./header.style.scss";
 import logo from "../../Assits/ProTech logos/ProTechLogo2-Transparent.png";
@@ -16,23 +17,40 @@ const Header = () => (
         {/* <h2>Engineering Services FZE</h2> */}
       </div>
     </div>
-    <div className="options">
+    <nav className="options" role="navigation" aria-label="Main">
       <Link to="/" className="option">
-        {" "}
         Home
       </Link>
-      <Link to="/ABOUT-US" className="option">
-        About us
-      </Link>
-      <Link to="/DIVISIONS" className="option">
-        {" "}
-        Division
-      </Link>
+
+      <div className="dropdown">
+        <Link to="/ABOUT-US" className="option" aria-haspopup="true" aria-expanded="false">
+          About us
+        </Link>
+        <div className="dropdown-content" role="menu" aria-label="About us submenu">
+          <Link to="/QHSE" className="dropdown-item" role="menuitem">QHSE</Link>
+          <Link to="/PRINCIPAL" className="dropdown-item" role="menuitem">Principal</Link>
+        </div>
+      </div>
+
+      <div className="dropdown">
+        <Link to="/DIVISIONS" className="option" aria-haspopup="true" aria-expanded="false">
+          Division
+        </Link>
+        <div className="dropdown-content" role="menu" aria-label="Divisions submenu">
+          <Link to="/DIVISIONS/NETWORKS-TRAINING" className="dropdown-item" role="menuitem">Networks & Training</Link>
+          <Link to="/DIVISIONS/EPCC" className="dropdown-item" role="menuitem">EPCC</Link>
+          <Link to="/DIVISIONS/SUPPLY-CHAIN" className="dropdown-item" role="menuitem">Supply Chain Division</Link>
+          <Link to="/DIVISIONS/INDUSTRIAL-ENGINEERING" className="dropdown-item" role="menuitem">Industrial Engineering Solutions</Link>
+          <Link to="/DIVISIONS/MANUFACTURING" className="dropdown-item" role="menuitem">Manufacturing</Link>
+          <Link to="/DIVISIONS/ENGINEERING" className="dropdown-item" role="menuitem">Engineering</Link>
+        </div>
+      </div>
+
       <Link to="/VISION-&-MISSION" className="option">
-        Vision & Mission
+        Vision and Mission
       </Link>
       <Link to="/CAREERS" className="option">
-        Carrers
+        Careers
       </Link>
       <Link to="/CONTACT-US" className="option">
         Contact us
@@ -40,14 +58,9 @@ const Header = () => (
       <Link to="/CEO-MESSAGE" className="option">
         Ceo Message
       </Link>
-      {/* <CustomButton>HOME</CustomButton> 
-          <CustomButton>ABOUT US</CustomButton>
-          <CustomButton>DIVISIONS</CustomButton>
-          <CustomButton>VISION & MISSION</CustomButton>
-          <CustomButton>CAREERS</CustomButton>
-          <CustomButton>CONTACT US</CustomButton>
-          <CustomButton>CEO MESSAGE</CustomButton> */}
-    </div>
+      {/* ...existing code... */}
+    </nav>
   </div>
 );
 export default Header;
+// ...existing code...
